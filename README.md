@@ -9,7 +9,7 @@ Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Git Overview
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhkhan18&show_icons=true" alt="ahmedhkhan18" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedHKhan18&show_icons=true&locale=en" alt="AhmedHKhan18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhkhan18&show_icons=true&locale=en&layout=compact" alt="ahmedhkhan18" /></p>
 
 
 ## Get-in Touch
