@@ -9,6 +9,10 @@ Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Git Overview
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhkhan18&show_icons=true" alt="ahmedhkhan18" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bun,npm,bootstrap,github,ai,vite,vscode,nodejs,figma,git,html,css,js,ts,ps,react,next,firebase,tailwind" alt="My Skills">
+</p>
 
 
 ## Get-in Touch
